@@ -1,10 +1,6 @@
-# Arduino PlatformIO Project Template
+# NTC thermistor-based temperature sensor and display
 
-A complete [PlatformIO](https://platformio.org/) project for Arduino Uno, Arduino Due and ESP32 (with Arduino framework).
+Great sources:
 
-[![Build Status](https://travis-ci.org/VioletGiraffe/Arduino-PlatformIO-Project-Template.svg?branch=master)](https://travis-ci.org/VioletGiraffe/Arduino-PlatformIO-Project-Template)
-
-Useful defaults (can be edited to taste):
-* C++ 17
-* O3 optimization level (yields a bit more runtime performance at the cost of larger program size)
-* 115200 baud serial monitor speed
+https://learn.adafruit.com/thermistor/using-a-thermistor
+https://www.thinksrs.com/downloads/programs/Therm%20Calc/NTCCalibrator/NTCcalculator.htm
